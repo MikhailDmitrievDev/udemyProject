@@ -22,3 +22,7 @@ node_modules/.bin/
 node_modules/
 
 package.json
+
+bootstrap-reboot.min.css
+
+bootstrap-reboot.css
